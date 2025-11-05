@@ -101,7 +101,7 @@ John Doe,john.doe@example.com
 ## 🛠️ Tecnologias
 
 - Java 21
-- Spring Boot 3.4.0
+- Spring Boot 3.5.7
 - MySQL 8.0
 - Docker
 - Maven
